@@ -1,3 +1,5 @@
+![version](https://img.shields.io/badge/version-20%2B-E23089)
+
 # 4d-topic-electronic-prescription
 電子処方箋
 
