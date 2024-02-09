@@ -17,3 +17,7 @@
 * XMLを署名する
 * ICカードから証明書を取り出す
 
+#### 関連プロジェクト
+
+* [4d-plugin-xmlsec](https://github.com/miyako/4d-plugin-xmlsec) →XAdES
+* [4d-plugin-timestamp-client](https://github.com/miyako/4d-plugin-timestamp-client) →RFC3161
