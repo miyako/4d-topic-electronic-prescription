@@ -1,7 +1,7 @@
 # 4d-topic-electronic-prescription
 電子処方箋
 
-#### step 0
+#### step 0 （未対応）
 
 * `JAHIS院外処方箋２次元シンボル記録条件規約（JAHIS9）`を`電子処方箋管理サービス記録条件仕様（SJ1）`に変換する
   * ヘッダーの変換
